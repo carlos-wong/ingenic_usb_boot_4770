@@ -1,6 +1,6 @@
 ingenic_usb_boot_4770
 =====================
-= HowTo compile =
+# HowTo compile
 
 prepare: recommend use ingenic gcc toolchain,export the gcc PATH.
 
